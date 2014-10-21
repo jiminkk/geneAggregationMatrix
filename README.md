@@ -1,4 +1,4 @@
-geneAggregationMatrix
+Gene Aggregation Matrix
 =====================
 1. Run "agg_genes.py" to obtain the aggregated matrix which I have included in this folder as well.
 
